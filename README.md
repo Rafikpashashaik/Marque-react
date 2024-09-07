@@ -15,7 +15,7 @@ Welcome to the Fancy Marquee project! 🎉 This is a visually appealing and inte
 
 
 
-## 📸 video
+## 📹 video
 [![Preview](https://github.com/Rafikpashashaik/Marque-react/blob/main/assets/video-thumbnail.png)](https://github.com/Rafikpashashaik/Marque-react/blob/main/demo.mp4)
 
 
