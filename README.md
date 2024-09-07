@@ -11,8 +11,7 @@ Welcome to the Fancy Marquee project! 🎉 This is a visually appealing and inte
 
 ## 📸 Preview
 
-![Preview](https://github.com/Rafikpashashaik/FAQ-S/blob/77323e6059a867eaffbddfd867d477ea7ae03227/Faq-Accordian.png)  
-*(Replace with an actual preview of your marquee if available)*
+![Preview](https://github.com/Rafikpashashaik/Marque-react/blob/edf7d4710468194f49bb74f7e4735a5eff7e8555/Demo-png.png)  
 
 ## 🔧 Installation
 
